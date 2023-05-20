@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Lesson_5">
         <activity
-            android:name=".MainActivity"
+            android:name="ru.gorkoun.audiorecord.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
